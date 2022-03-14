@@ -1,0 +1,13 @@
+C:\Users\Navar\source\repos\MN\Razi_Sesion2\Razi_Sesion2\bin\Debug\Razi_Sesion2.exe.config
+C:\Users\Navar\source\repos\MN\Razi_Sesion2\Razi_Sesion2\bin\Debug\Razi_Sesion2.exe
+C:\Users\Navar\source\repos\MN\Razi_Sesion2\Razi_Sesion2\bin\Debug\Razi_Sesion2.pdb
+C:\Users\Navar\source\repos\MN\Razi_Sesion2\Razi_Sesion2\bin\Debug\Razi_Sesion2.xml
+C:\Users\Navar\source\repos\MN\Razi_Sesion2\Razi_Sesion2\obj\Debug\Razi_Sesion2.vbproj.AssemblyReference.cache
+C:\Users\Navar\source\repos\MN\Razi_Sesion2\Razi_Sesion2\obj\Debug\Razi_Sesion2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Navar\source\repos\MN\Razi_Sesion2\Razi_Sesion2\obj\Debug\Razi_Sesion2.Form1.resources
+C:\Users\Navar\source\repos\MN\Razi_Sesion2\Razi_Sesion2\obj\Debug\Razi_Sesion2.Resources.resources
+C:\Users\Navar\source\repos\MN\Razi_Sesion2\Razi_Sesion2\obj\Debug\Razi_Sesion2.vbproj.GenerateResource.cache
+C:\Users\Navar\source\repos\MN\Razi_Sesion2\Razi_Sesion2\obj\Debug\Razi_Sesion2.vbproj.CoreCompileInputs.cache
+C:\Users\Navar\source\repos\MN\Razi_Sesion2\Razi_Sesion2\obj\Debug\Razi_Sesion2.exe
+C:\Users\Navar\source\repos\MN\Razi_Sesion2\Razi_Sesion2\obj\Debug\Razi_Sesion2.xml
+C:\Users\Navar\source\repos\MN\Razi_Sesion2\Razi_Sesion2\obj\Debug\Razi_Sesion2.pdb
